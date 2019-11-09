@@ -53,6 +53,7 @@
 18. ctrl+alt+home:查看布局与对应的类
 19. ctrl+alt+H:查看当前方法在那里进行调用
 
+#### いろいろ
 1、编辑（Editing）
 Ctrl + Space 基本的代码完成（类、方法、属性）
 
