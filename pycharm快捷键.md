@@ -3,32 +3,27 @@
 #### 光标操作
 1. ctrl+alt+enter:向上插入
 2. shift+enter:向下插入
-3. end:光标
 
 #### 光标操作
 1. ctrl+alt+enter:向上插入
 2. shift+enter:向下插入
-3. end:光标
 
 #### 操作代码
 1. ctrl+d:复制粘贴一行
 2. ctrl+y:删除一行
 3. shift+F6:重命令
-4. ctrl+O:复写代码
 
 #### 格式代码及其他功能
 1. ctrl+alt+L:格式代码
-2. 在代码中使用alt+insert:Generate,可以get/set等操作
-3. ctrl+alt+T:添加try/catch
-4. ctrl+alt+M:抽取代码
-5. ctrl+alt+v:方法体内值抽取成变量
-6. 保存成模板:ctrl+shift+L,这个是自定义的(save as live Template)
-7. 选中内容:tab进行退格
-8. shift+tab:反向退格
-9. alt+shift+上下键:选中代码移动
-10. ctrl+shift+上下键:可以移动当前方法体,如果移动一行代码只能在代码体内移动
-11. ctrl+shift+U:代码大小写
-12. ctrl+shift+enter:补全代码(一行尾添加分号,如果是if等添加括号)
+2. ctrl+alt+T:添加try/catch
+3. ctrl+alt+M:抽取代码
+4. ctrl+alt+v:方法体内值抽取成变量
+5. 选中内容:tab进行退格
+6. shift+tab:反向退格
+7. alt+shift+上下键:选中代码移动
+8. ctrl+shift+上下键:可以移动当前方法体,如果移动一行代码只能在代码体内移动
+9. ctrl+shift+U:代码大小写
+10. ctrl+shift+enter:补全代码(一行尾添加分号,如果是if等添加括号)
 
 #### 替换查找
 1. ctrl+r:替换
@@ -42,7 +37,6 @@
 8. ctrl+F12:查看类的方法
 9. ctrl+H:查看类的继承关系
 10. 查看变量的赋值情况:
-    1. shift+ctrl+a:输入analyze data flow to Here
 11. ctrl+alt+H:查看方法在那里被调用了
 12. ctrl+{}:可以定位方法体的括号
 13. F3:查看选中的内容
